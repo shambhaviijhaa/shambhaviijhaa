@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shambhavi Jha 👋</h1>
+<h1 align="center">Hi👋, I'm Shambhavi Jha </h1>
 <h3 align="center">A passionate developer and learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*s2ivt9cecdqsXvts.gif">
 
