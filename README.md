@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shambhavi jha</h1>
-<h3 align="center">I'm a 3rd year student who is eager to expand my skillset </h3>
+<h1 align="center">Hi👋, I'm Shambhavi Jha</h1>
+<h3 align="center">I'm a pre-final year B.Tech. CSE student fervently gearing up to contribute in the tech wave. I want to introduce people to the forefront of technology, allowing them to immerse themselves in the latest advancements. </h3>
 
 
 
