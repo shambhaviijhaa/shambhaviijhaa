@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **shambhavi.jha543@gmail.com**
 
-- 📄 Resume: https://drive.google.com/file/d/1W9udhdYpnoGgnoKaLhJ-LwjCHbZMNjqJ/view?usp=drive_link
+- 📄 Resume: [Link](https://drive.google.com/file/d/1wF0IC-nJWhUE5SJ-jo9r9-HWEoyEI7vy/view?usp=drive_link)
 
 - Portfolio : [Link](https://shambhaviijhaa.github.io/My_Portfolio/)
 
-- ⚡ Fun fact **I think being a Jack is better than being a Master**
+- ⚡ Fun fact : **I think being a Jack is better than being a Master**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
