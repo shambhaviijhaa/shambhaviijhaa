@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me **shambhavi.jha543@gmail.com**
+- 📫 How to reach me **shambhavi.work05@gmail.com**
 
 - 📄 Resume: [Link](https://drive.google.com/file/d/1wF0IC-nJWhUE5SJ-jo9r9-HWEoyEI7vy/view?usp=drive_link)
 
