@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Shambhavi Jha</h1>
-<h3 align="center">I'm a pre-final year B.Tech. CSE student fervently gearing up to contribute in the tech wave.</h3>
+<h3 align="center">I'm a final year B.Tech. CSE student fervently gearing up to contribute in the tech wave.</h3>
 
 
 
